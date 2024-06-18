@@ -1,0 +1,19 @@
+{
+  "name": "hamza_simple-calculator_code-by-typescript",
+  "version": "1.0.0",
+  "description": "\"simple Calculator made with typescript,javascript and Node.js\"",
+  "main": "calculator.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
